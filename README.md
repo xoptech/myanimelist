@@ -12,11 +12,11 @@ A fast, clean anime tracking application built with Laravel. Users can manage th
 
 ![Preview](docs/screenshot.gif)
 
-### **Demo**
+---
 
-<video controls width="100%">
-  <source src="docs/video.mp4" type="video/mp4">
-</video>
+#### **Demo**
+
+https://tinyurl.com/demoa1b2c3
 
 ---
 
